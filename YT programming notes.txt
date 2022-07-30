@@ -1,0 +1,25 @@
+clear : to clear the whole command
+
+pwd : to know where you are now
+
+cd F:// : to change the directory of where you wanna go in a disk
+
+cd (file name) i.e. (YT programming) : change the directory to downloads
+
+ls : to know the files located in the folder 
+
+mkdir folder name in strings i.e "python": creates only 1 folder i
+
+mkdir folder names with spaces without string i.e. daniyal minhal jamal hasnain : create multiple folder 
+
+touch (file name.txt) : creates a file
+
+touch (file name.py) : creates python file
+
+touch (file name.java) : creates a java file
+
+cd ..   :  back
+
+rm file name : To remove certain file from the folder
+
+rm -rf (folder name) : removes the folder 

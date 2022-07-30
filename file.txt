@@ -1,0 +1,10 @@
+Daniyal,18,sz06880,Male,Student,Yes
+Daniyal,18,sz06880,Male,Student,Yes
+Syed Muhammad Daniyal Murtaza Zaidi,19,sz06880@st.habib.edu.pk,Male,Student,Yes
+Daniyal,19,sz06880,Male,Student,Yes
+,,,Male,Student,Yes
+Daniyal,18,sz06880,Male,Student,Yes
+Daniyal,19,sz06880,Male,Student,Yes
+Daniyal,18,sz06880,Male,Student,Yes
+Daniyal,19,sz06880,Male,Student,Yes
+dani,19,zz,Male,Student,No
